@@ -1,0 +1,176 @@
+{
+ "updated": "2026-11-19T12:00:00Z",
+ "items": [
+  {
+   "id": "starship-flight-15",
+   "title": "Starship טיסה 15: החללית הגיעה למסלול, תפיסת המאיץ בוטלה",
+   "summary": "SpaceX שיגרה ב-13.11 את טיסת הניסוי ה-15 של Starship. החללית נכנסה למסלול בפעם השנייה בלבד, אבל ניסיון התפיסה של מאיץ Super Heavy בזרועות ה'צ'ופסטיקס' בוטל והמאיץ התפוצץ במפרץ מקסיקו. היעד הבא: החזרת החללית עצמה לאתר השיגור.",
+   "source": "Space.com",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+   "date": "2026-11-13",
+   "cats": [
+    "launch",
+    "orbital"
+   ]
+  },
+  {
+   "id": "ariane6-va271",
+   "title": "Ariane 64 תשגר 36 לווייני Amazon Leo – לא לפני 23.11",
+   "summary": "הטיסה העשירית של Ariane 6 (VA271) תצא מגיאנה הצרפתית עם 36 לווייני תקשורת. זו הטיסה הרביעית של המשגר האירופי עבור קבוצת הלוויינים של אמזון, אחרי תיקון בטורבו-משאבה שהתגלה בניסויי קרקע.",
+   "source": "RocketLaunch.live",
+   "url": "https://rocketlaunch.live/launch/amazon-leo-le-04",
+   "date": "2026-11-23",
+   "cats": [
+    "orbital",
+    "launch"
+   ]
+  },
+  {
+   "id": "new-glenn-2027",
+   "title": "New Glenn חוזר לטוס רק בינואר 2027",
+   "summary": "Blue Origin דחתה את חזרתו לטיסה של המשגר הכבד לינואר 2027. הסיבה: שיקום אתר השיגור LC-36 אחרי תאונה בניסוי הצתה סטטי במאי 2026. לקוחות כמו NASA, אמזון וחיל החלל האמריקאי ממתינים.",
+   "source": "NewSpace Economy",
+   "url": "https://newspaceeconomy.ca/2026/11/07/blue-origin-delays-new-glenn-return-to-flight-until-january-2027/",
+   "date": "2026-11-07",
+   "cats": [
+    "orbital"
+   ]
+  },
+  {
+   "id": "ast-blacklift",
+   "title": "AST SpaceMobile חושפת משגר בשם Blacklift",
+   "summary": "חברת לווייני התקשורת נכנסת לתחום המשגרים, במסגרת הסכם מנועים עם Firefly בהיקף של כ-1.3 מיליארד דולר. עוד סימן לכך שמפעילי קבוצות לוויינים רוצים שליטה על הגישה שלהם לחלל.",
+   "source": "SatNews",
+   "url": "https://satnews.com/category/booster-recovery/",
+   "date": "2026-11-07",
+   "cats": [
+    "orbital"
+   ]
+  },
+  {
+   "id": "neutron-2027",
+   "title": "Rocket Lab: השיגור הראשון של Neutron נדחה ל-2027",
+   "summary": "בדוח הרבעוני מסרה החברה שבאוקטובר התגלו חללים (voids) בכיפת מכל דלק מרוכב בשלב הראשון. ייצור כיפה חלופית ואימות תהליך הייצור דוחים את הבכורה של המשגר הבינוני והרב-פעמי.",
+   "source": "SEC · Rocket Lab 10-Q",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001819994/000181999426000074/rklb-20260930.htm",
+   "date": null,
+   "cats": [
+    "orbital"
+   ]
+  },
+  {
+   "id": "electron-nov2",
+   "title": "Electron שיגר את The Sea God Surveys מניו זילנד",
+   "summary": "Rocket Lab שיגרה ב-2.11 משגר לווינים קטנים Electron מאתר השיגור במאהיה. המשגר הקטן ממשיך לשמש מודל לחברות סטארט-אפ שבונות משגרים ייעודיים ללווייני-זעיר.",
+   "source": "Astronomy.com",
+   "url": "https://www.astronomy.com/whats-launching-this-week/south-korea-eyes-rocket-debut-and-china-lines-up-four-launches/",
+   "date": "2026-11-02",
+   "cats": [
+    "orbital",
+    "launch"
+   ]
+  },
+  {
+   "id": "isar-spectrum",
+   "title": "Spectrum של Isar Aerospace הגיע למסלול מנורבגיה",
+   "summary": "ב-5.9.2026 הציב המשגר הגרמני לווינים במסלול – משגר אירופי פרטי ראשון שמגיע ליכולת מסלולית מיבשת אירופה. סקירה של מצב משגרי הלוויינים הקטנים באירופה.",
+   "source": "NewSpace Economy",
+   "url": "https://newspaceeconomy.ca/2026/10/24/what-are-europes-commercial-small-launchers-building-and-delivering/",
+   "date": "2026-10-24",
+   "cats": [
+    "orbital"
+   ]
+  },
+  {
+   "id": "iac26-hybrid",
+   "title": "IAC 2026: מושב הנעה מוצקה והיברידית",
+   "summary": "בכנס האסטרונאוטיקה הבינלאומי הוצגו, בין היתר, תכן מנוע היברידי של 100 ניוטון על פרפין ו-N2O עם מדידת קצב נסיגה בזמן אמת בעזרת מערך חוטים, וניתוח תרמו-מבני של תא שריפה ונחיר של מנוע היברידי קטן. רלוונטי ישירות לעבודה שלנו.",
+   "source": "IAF · IAC-26 C4.3",
+   "url": "https://iafastro.directory/iac/browse/IAC-26/C4/3/",
+   "date": "2026-10-06",
+   "cats": [
+    "academic"
+   ]
+  },
+  {
+   "id": "transporter-18",
+   "title": "Transporter-18: עוד שיגור שיתופי של לווייני-זעיר",
+   "summary": "Falcon 9 שיגר ב-1.10 את משימת ה-rideshare ה-18 מוונדנברג, ועליה שלוש חלליות של NASA, כולל SSPICY לבדיקה ותחזוקה של לוויינים בחלל.",
+   "source": "NASA",
+   "url": "https://www.nasa.gov/blogs/smallsatellites/2026/10/01/nasa-smallsats-launch-to-advance-science-technology-orbital-operations/",
+   "date": "2026-10-01",
+   "cats": [
+    "orbital",
+    "launch"
+   ]
+  },
+  {
+   "id": "starship-14",
+   "title": "Starship טיסה 14 – הראשונה למסלול",
+   "summary": "בספטמבר הגיעה Starship לראשונה למהירות מסלולית ופרסה לווייני Starlink, אם כי הטיסה קוצרה לשלוש שעות. שלב חשוב בדרך למשגר רב-פעמי לגמרי.",
+   "source": "OPB / NPR",
+   "url": "https://www.opb.org/article/2026/09/28/spacexs-starship-launches-on-first-orbital-mission-from-texas/",
+   "date": "2026-09-28",
+   "cats": [
+    "launch",
+    "orbital"
+   ]
+  },
+  {
+   "id": "rmit-irec",
+   "title": "קבוצת סטודנטים היברידית במקום השני ב-IREC 2026",
+   "summary": "קבוצת Hive מ-RMIT באוסטרליה זכתה במקום השני בקטגוריית 10k ft להנעה היברידית בפיתוח עצמי (SRAD), בתחרות שבה השתתפו 144 קבוצות בטקסס. מוכיח שאפשר להתחרות בחזית עם מנוע היברידי של סטודנטים.",
+   "source": "RMIT",
+   "url": "https://www.rmit.edu.au/students/news/2026/jul/rocket-team",
+   "date": "2026-07",
+   "cats": [
+    "student"
+   ]
+  },
+  {
+   "id": "tj150",
+   "title": "טורבו-סילון TJ150 בהדפסה תלת-ממדית לטילי שיוט",
+   "summary": "Pratt & Whitney השלימה ניסויי הדגמה לגרסה מודפסת של מנוע TJ150, המיועד בין היתר לטיל השיוט הקטן AGM-190A. ייצור תוספתי מקצר זמני ייצור של מנועים חד-פעמיים.",
+   "source": "Interesting Engineering",
+   "url": "https://interestingengineering.com/innovation/rtx-tj150-missile-engine-3d-printed-test",
+   "date": null,
+   "cats": [
+    "missiles"
+   ]
+  },
+  {
+   "id": "tbcc-arxiv",
+   "title": "מאמר: התאמת מודול טורבו-סילון למנוע משולב TBCC",
+   "summary": "מאמר ב-arXiv על גודל מודול הטורבו-סילון במנוע מחזור משולב לרכב היפרסוני בשיוט ממושך (סביב מאך 6 ובגובה 25–35 ק\"מ) – איך תנאי השיוט מכתיבים את מגבלות התכן.",
+   "source": "arXiv",
+   "url": "https://arxiv.org/html/2406.19472v1",
+   "date": "2024-06-27",
+   "cats": [
+    "academic",
+    "missiles"
+   ]
+  },
+  {
+   "id": "epfl-firehorn",
+   "title": "EPFL Rocket Team: רקטה דו-נוזלית ל-30 ק\"מ",
+   "summary": "הקבוצה השוויצרית בונה את Firehorn II – רקטה דו-נוזלית של סטודנטים שמכוונת ל-30 ק\"מ, אחרי Firehorn שכוונה ל-9 ק\"מ. היעד ארוך הטווח: 100 ק\"מ עד 2030.",
+   "source": "EPFL Rocket Team",
+   "url": "https://rocketteam.epfl.ch",
+   "date": null,
+   "cats": [
+    "student"
+   ]
+  },
+  {
+   "id": "bayes-regression",
+   "title": "מאמר: חיזוי קצב נסיגה במנועים היברידיים בשיטה בייסיאנית",
+   "summary": "חוקרים מ-BUAA משלבים נתוני ניסוי ממנועים מוקטנים עם סימולציות כדי לחזות קצב נסיגה של מנוע גדול, כולל כימות אי-ודאות – כלי שימושי לקפיצת הגודל שאנחנו מתכננים.",
+   "source": "BUAA",
+   "url": "https://research.buaa.edu.cn/en/publications/uncertainty-quantified-regression-rate-prediction-for-hybrid-rock/",
+   "date": null,
+   "cats": [
+    "academic"
+   ]
+  }
+ ]
+}
