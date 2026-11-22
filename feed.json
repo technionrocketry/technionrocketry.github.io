@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T13:12:20+00:00",
+ "updated": "2026-11-22T19:04:20+00:00",
  "items": [
   {
    "id": "starship-flight-15",
@@ -184,17 +184,6 @@
    ]
   },
   {
-   "id": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-   "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-   "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-   "date": "2026-11-19",
-   "cats": [
-    "launch"
-   ]
-  },
-  {
    "id": "https://europeanspaceflight.com/esa-awards-ohb-e102m-contract-for-clearspace-1-debris-removal-mission/",
    "title": "ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission",
    "summary": "The European Space Agency has awarded German satellite builder OHB a €102 million contract to build ClearSpace-1, a spacecraft designed to capture and remove the agency’s Proba-1 satellite after it is retired from service. Signed on 17 November at Space Tech Expo Europe in Bremen, Germany, the contract marks the…",
@@ -203,17 +192,6 @@
    "date": "2026-11-19",
    "cats": [
     "orbital"
-   ]
-  },
-  {
-   "id": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-   "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-   "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-   "date": "2026-11-18",
-   "cats": [
-    "launch"
    ]
   },
   {
@@ -229,35 +207,12 @@
    ]
   },
   {
-   "id": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-   "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-   "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-   "date": "2026-11-17",
-   "cats": [
-    "orbital"
-   ]
-  },
-  {
    "id": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/",
    "title": "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio",
    "summary": "Finnish satellite builder and operator ICEYE has launched a €2.05 billion takeover bid for Avio, with the aim of building a “true European sovereign space and defense champion.” The company has also outlined plans to invest an additional €1 billion in Italy if the acquisition goes through. On 17 November, ICEYE’s…",
    "source": "European Spaceflight",
    "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/",
    "date": "2026-11-17",
-   "cats": [
-    "orbital",
-    "launch"
-   ]
-  },
-  {
-   "id": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-   "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-   "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-   "date": "2026-11-16",
    "cats": [
     "orbital",
     "launch"
@@ -287,29 +242,6 @@
    ]
   },
   {
-   "id": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-   "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-   "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-   "date": "2026-11-13",
-   "cats": [
-    "orbital"
-   ]
-  },
-  {
-   "id": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-   "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
-   "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-   "date": "2026-11-12",
-   "cats": [
-    "orbital",
-    "launch"
-   ]
-  },
-  {
    "id": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/",
    "title": "ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract",
    "summary": "The European Space Agency (ESA) has revealed that MaiaSpace’s decision to pursue a different funding arrangement from its competitors has complicated negotiations over its European Launcher Challenge contract. Speaking during an ESA media briefing on 22 October, ESA Director of Space Transportation Géraldine Naja…",
@@ -329,29 +261,6 @@
    "date": "2026-11-12",
    "cats": [
     "academic"
-   ]
-  },
-  {
-   "id": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-   "title": "Isaacman lays out SLS path to the 2030s",
-   "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-   "date": "2026-11-11",
-   "cats": [
-    "launch"
-   ]
-  },
-  {
-   "id": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-   "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-   "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-   "date": "2026-11-09",
-   "cats": [
-    "orbital",
-    "launch"
    ]
   },
   {
