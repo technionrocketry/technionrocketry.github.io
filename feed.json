@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:51:50+00:00",
+ "updated": "2026-11-23T13:38:53+00:00",
  "items": [
   {
    "id": "starship-flight-15",
@@ -321,17 +321,6 @@
    ]
   },
   {
-   "id": "http://arxiv.org/abs/2611.16891v3",
-   "title": "Margin-Inducing Optimal Guidance and Control for Atmospheric Entry",
-   "summary": "A method is presented for margin-inducing optimal guidance and control with application to atmospheric entry. The method induces margin in state inequality path constraints during entry while simultaneously retaining a large portion of the non-margin-inducing performance. The margin in the guidance trajectory is…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2611.16891v3",
-   "date": "2026-11-12",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
    "id": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
    "title": "Isaacman lays out SLS path to the 2030s",
    "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
@@ -355,95 +344,6 @@
    ]
   },
   {
-   "id": "http://arxiv.org/abs/2611.12511v1",
-   "title": "Efficient high-order Discontinuous Galerkin simulations of multi-species high-enthalpy flows",
-   "summary": "Numerical simulation of hypersonic vehicles is an attractive approach to investigate the complex phenomena involved in such technologies. For this, second-order finite volume methods (FVM) are the established method in computational fluid dynamics, with the cost of high dissipation in affordable meshes, thus needing…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2611.12511v1",
-   "date": "2026-11-09",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2611.08121v1",
-   "title": "Overcoming Fundamental Control Limitations in Powered Descent Flight through Robust Incremental Nonlinear Dynamic Inversion",
-   "summary": "This work identifies a fundamental, controller-independent limitation in reusable launch vehicle powered descent: a sudden $180^\\circ$ phase transition in the open-loop transfer functions from the control inputs to the lateral drift and drift rate. The transition occurs inside the flight envelope, reverses the…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2611.08121v1",
-   "date": "2026-11-05",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2610.35954v1",
-   "title": "Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket Landing",
-   "summary": "Autonomous vertical landing of reusable launch vehicles is a critical yet formidable challenge in aerospace engineering, primarily due to highly nonlinear dynamics, stringent precision require- ments, and inherent environmental uncertainties. While reinforcement learning (RL) has emerged as a promising alternative to…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2610.35954v1",
-   "date": "2026-10-24",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2611.00086v1",
-   "title": "SCRAMJet: An Ultra Low Latency JetClass-Scale Transformer for the HL-LHC Level-1 Trigger",
-   "summary": "Level-1 Triggers at the LHC classify collisions within a few microseconds on FPGAs, where a network is a fully unrolled circuit whose cost is area rather than time. We present SCRAMJet, a transformer encoder that replaces multi-head attention with a low-rank projection, trains under per-parameter learned fixed-point…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2611.00086v1",
-   "date": "2026-10-20",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2610.17842v4",
-   "title": "Theoretical and Computational Advances in Birkhoff Pseudospectral Transcription for Aerospace Optimal Control",
-   "summary": "Birkhoff pseudospectral methods replace the differentiation matrices of classical transcriptions with integration operators whose conditioning does not deteriorate with polynomial order. This paper presents theoretical and computational advancements toward their practical use in aerospace optimal control. The…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2610.17842v4",
-   "date": "2026-10-13",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2610.02989v2",
-   "title": "Fast Stochastic Post-Fault Replanning for Launch Vehicles under Persistent Parametric Uncertainty",
-   "summary": "Post-fault ascent replanning for launch vehicles requires rapid joint trajectory-guidance replanning under uncertainty to maintain closed-loop constraint satisfaction. In particular, propulsion performance cannot be promptly and fully identified after a fault, leaving persistent parametric uncertainty throughout the…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2610.02989v2",
-   "date": "2026-10-02",
-   "cats": [
-    "academic",
-    "launch"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2609.28759v1",
-   "title": "Fuel-optimal Boost-Back Guidance via Successive Convexification with a Terminal Constraint for ReusableLaunch Vehicles",
-   "summary": "This paper proposes a fuel-optimal boost-back guidance algorithm for reusable launch vehicles using successive convexification (SCvx). The guidance problem is formulated as a free-final-time optimal control problem with a terminal instantaneous impact point (IIP) constraint. This constraint depends only on the…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2609.28759v1",
-   "date": "2026-09-23",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2608.26551v1",
-   "title": "Nonlinear Model Predictive Control for Guidance Law with Target Input Estimation",
-   "summary": "This paper presents a look angle-based nonlinear model predictive control guidance (MPCG) method for missiles equipped with strapdown seekers. Conventional proportional navigation guidance (PNG) requires line-of-sight (LOS) rate measurements, which are not directly available in strapdown systems. MPCG instead employs…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2608.26551v1",
-   "date": "2026-08-27",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
    "id": "http://arxiv.org/abs/2610.20612v1",
    "title": "AeroProp-X: An Open-Source, Self-Verifying Method-of-Characteristics Toolkit for Edge-Capable Rocket Nozzle Design and Aerothermodynamic Analysis",
    "summary": "The design of supersonic rocket nozzles by the Method of Characteristics is a mature discipline, yet the software that implements it is frequently either proprietary, heavyweight, or opaque, which limits reproducibility and classroom and field use. This paper presents AeroProp-X, an open-source, dependency-light…",
@@ -452,39 +352,6 @@
    "date": "2026-06-24",
    "cats": [
     "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2607.01234v1",
-   "title": "Modeling the Performance of the Burevestnik Nuclear-Powered Cruise Missile",
-   "summary": "In the last decade, Russia's strategic arsenal has pivoted towards a reliance on exotic nuclear-weapon delivery systems. One such system, the Burevestnik (NATO: 9M730) is claimed to be a nuclear-powered, nuclear-armed cruise missile capable of nearly indefinite flight. The air-breathing nuclear propulsion system used…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2607.01234v1",
-   "date": "2026-06-17",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2604.06397v1",
-   "title": "Transonic flow past the complex cavity-sub-cavity configurations",
-   "summary": "The study investigates the physics of unsteady flow in complex cavity geometries operating in the transonic regime. A two-dimensional Detached Eddy Simulation (DES) approach is used for the preliminary analysis. The cavity configuration examined in this work arises from the integration of a scramjet engine with a…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2604.06397v1",
-   "date": "2026-04-07",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2601.18404v1",
-   "title": "Flash evaporation Riemann Problem: Formulation and its Exact Solution",
-   "summary": "Flash evaporation, a liquid-to-gas phase transition phenomenon in real fluids, is prevalent in aerospace propulsion systems. To elucidate the physical mechanisms of such complex flows and provide theoretical benchmarks for Computational Fluid Dynamics simulations, this paper formalizes the Flash evaporation Riemann…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2601.18404v1",
-   "date": "2026-01-26",
-   "cats": [
-    "missiles"
    ]
   },
   {
