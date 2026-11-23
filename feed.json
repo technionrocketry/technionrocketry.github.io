@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:04:20+00:00",
+ "updated": "2026-11-23T01:30:25+00:00",
  "items": [
   {
    "id": "starship-flight-15",
@@ -184,6 +184,17 @@
    ]
   },
   {
+   "id": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+   "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+   "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+   "date": "2026-11-19",
+   "cats": [
+    "launch"
+   ]
+  },
+  {
    "id": "https://europeanspaceflight.com/esa-awards-ohb-e102m-contract-for-clearspace-1-debris-removal-mission/",
    "title": "ESA Awards OHB €102M Contract for ClearSpace-1 Debris Removal Mission",
    "summary": "The European Space Agency has awarded German satellite builder OHB a €102 million contract to build ClearSpace-1, a spacecraft designed to capture and remove the agency’s Proba-1 satellite after it is retired from service. Signed on 17 November at Space Tech Expo Europe in Bremen, Germany, the contract marks the…",
@@ -192,6 +203,17 @@
    "date": "2026-11-19",
    "cats": [
     "orbital"
+   ]
+  },
+  {
+   "id": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+   "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+   "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+   "date": "2026-11-18",
+   "cats": [
+    "launch"
    ]
   },
   {
@@ -207,12 +229,35 @@
    ]
   },
   {
+   "id": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+   "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+   "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+   "date": "2026-11-17",
+   "cats": [
+    "orbital"
+   ]
+  },
+  {
    "id": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/",
    "title": "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio",
    "summary": "Finnish satellite builder and operator ICEYE has launched a €2.05 billion takeover bid for Avio, with the aim of building a “true European sovereign space and defense champion.” The company has also outlined plans to invest an additional €1 billion in Italy if the acquisition goes through. On 17 November, ICEYE’s…",
    "source": "European Spaceflight",
    "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/",
    "date": "2026-11-17",
+   "cats": [
+    "orbital",
+    "launch"
+   ]
+  },
+  {
+   "id": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+   "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+   "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+   "date": "2026-11-16",
    "cats": [
     "orbital",
     "launch"
@@ -242,6 +287,29 @@
    ]
   },
   {
+   "id": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+   "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
+   "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
+   "date": "2026-11-13",
+   "cats": [
+    "orbital"
+   ]
+  },
+  {
+   "id": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+   "title": "ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload",
+   "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, returned to flight after a grounding that… The post ULA’s Vulcan suffers anomaly on return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
+   "date": "2026-11-12",
+   "cats": [
+    "orbital",
+    "launch"
+   ]
+  },
+  {
    "id": "https://europeanspaceflight.com/esa-explains-delay-in-signing-maiaspace-launcher-challenge-contract/",
    "title": "ESA Explains Delay in Signing MaiaSpace Launcher Challenge Contract",
    "summary": "The European Space Agency (ESA) has revealed that MaiaSpace’s decision to pursue a different funding arrangement from its competitors has complicated negotiations over its European Launcher Challenge contract. Speaking during an ESA media briefing on 22 October, ESA Director of Space Transportation Géraldine Naja…",
@@ -253,202 +321,26 @@
    ]
   },
   {
-   "id": "http://arxiv.org/abs/2611.16891v3",
-   "title": "Margin-Inducing Optimal Guidance and Control for Atmospheric Entry",
-   "summary": "A method is presented for margin-inducing optimal guidance and control with application to atmospheric entry. The method induces margin in state inequality path constraints during entry while simultaneously retaining a large portion of the non-margin-inducing performance. The margin in the guidance trajectory is…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2611.16891v3",
-   "date": "2026-11-12",
+   "id": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+   "title": "Isaacman lays out SLS path to the 2030s",
+   "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
+   "date": "2026-11-11",
    "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2611.12511v1",
-   "title": "Efficient high-order Discontinuous Galerkin simulations of multi-species high-enthalpy flows",
-   "summary": "Numerical simulation of hypersonic vehicles is an attractive approach to investigate the complex phenomena involved in such technologies. For this, second-order finite volume methods (FVM) are the established method in computational fluid dynamics, with the cost of high dissipation in affordable meshes, thus needing…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2611.12511v1",
-   "date": "2026-11-09",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2611.08121v1",
-   "title": "Overcoming Fundamental Control Limitations in Powered Descent Flight through Robust Incremental Nonlinear Dynamic Inversion",
-   "summary": "This work identifies a fundamental, controller-independent limitation in reusable launch vehicle powered descent: a sudden $180^\\circ$ phase transition in the open-loop transfer functions from the control inputs to the lateral drift and drift rate. The transition occurs inside the flight envelope, reverses the…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2611.08121v1",
-   "date": "2026-11-05",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2610.35954v1",
-   "title": "Curriculum-Driven Deep Reinforcement Learning for Autonomous Far-Range Rocket Landing",
-   "summary": "Autonomous vertical landing of reusable launch vehicles is a critical yet formidable challenge in aerospace engineering, primarily due to highly nonlinear dynamics, stringent precision require- ments, and inherent environmental uncertainties. While reinforcement learning (RL) has emerged as a promising alternative to…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2610.35954v1",
-   "date": "2026-10-24",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2611.00086v1",
-   "title": "SCRAMJet: An Ultra Low Latency JetClass-Scale Transformer for the HL-LHC Level-1 Trigger",
-   "summary": "Level-1 Triggers at the LHC classify collisions within a few microseconds on FPGAs, where a network is a fully unrolled circuit whose cost is area rather than time. We present SCRAMJet, a transformer encoder that replaces multi-head attention with a low-rank projection, trains under per-parameter learned fixed-point…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2611.00086v1",
-   "date": "2026-10-20",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2610.17842v4",
-   "title": "Theoretical and Computational Advances in Birkhoff Pseudospectral Transcription for Aerospace Optimal Control",
-   "summary": "Birkhoff pseudospectral methods replace the differentiation matrices of classical transcriptions with integration operators whose conditioning does not deteriorate with polynomial order. This paper presents theoretical and computational advancements toward their practical use in aerospace optimal control. The…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2610.17842v4",
-   "date": "2026-10-13",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2610.02989v2",
-   "title": "Fast Stochastic Post-Fault Replanning for Launch Vehicles under Persistent Parametric Uncertainty",
-   "summary": "Post-fault ascent replanning for launch vehicles requires rapid joint trajectory-guidance replanning under uncertainty to maintain closed-loop constraint satisfaction. In particular, propulsion performance cannot be promptly and fully identified after a fault, leaving persistent parametric uncertainty throughout the…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2610.02989v2",
-   "date": "2026-10-02",
-   "cats": [
-    "academic",
     "launch"
    ]
   },
   {
-   "id": "http://arxiv.org/abs/2609.28759v1",
-   "title": "Fuel-optimal Boost-Back Guidance via Successive Convexification with a Terminal Constraint for ReusableLaunch Vehicles",
-   "summary": "This paper proposes a fuel-optimal boost-back guidance algorithm for reusable launch vehicles using successive convexification (SCvx). The guidance problem is formulated as a free-final-time optimal control problem with a terminal instantaneous impact point (IIP) constraint. This constraint depends only on the…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2609.28759v1",
-   "date": "2026-09-23",
+   "id": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+   "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
+   "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
+   "date": "2026-11-09",
    "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2608.26551v1",
-   "title": "Nonlinear Model Predictive Control for Guidance Law with Target Input Estimation",
-   "summary": "This paper presents a look angle-based nonlinear model predictive control guidance (MPCG) method for missiles equipped with strapdown seekers. Conventional proportional navigation guidance (PNG) requires line-of-sight (LOS) rate measurements, which are not directly available in strapdown systems. MPCG instead employs…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2608.26551v1",
-   "date": "2026-08-27",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2610.20612v1",
-   "title": "AeroProp-X: An Open-Source, Self-Verifying Method-of-Characteristics Toolkit for Edge-Capable Rocket Nozzle Design and Aerothermodynamic Analysis",
-   "summary": "The design of supersonic rocket nozzles by the Method of Characteristics is a mature discipline, yet the software that implements it is frequently either proprietary, heavyweight, or opaque, which limits reproducibility and classroom and field use. This paper presents AeroProp-X, an open-source, dependency-light…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2610.20612v1",
-   "date": "2026-06-24",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2607.01234v1",
-   "title": "Modeling the Performance of the Burevestnik Nuclear-Powered Cruise Missile",
-   "summary": "In the last decade, Russia's strategic arsenal has pivoted towards a reliance on exotic nuclear-weapon delivery systems. One such system, the Burevestnik (NATO: 9M730) is claimed to be a nuclear-powered, nuclear-armed cruise missile capable of nearly indefinite flight. The air-breathing nuclear propulsion system used…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2607.01234v1",
-   "date": "2026-06-17",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2604.06397v1",
-   "title": "Transonic flow past the complex cavity-sub-cavity configurations",
-   "summary": "The study investigates the physics of unsteady flow in complex cavity geometries operating in the transonic regime. A two-dimensional Detached Eddy Simulation (DES) approach is used for the preliminary analysis. The cavity configuration examined in this work arises from the integration of a scramjet engine with a…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2604.06397v1",
-   "date": "2026-04-07",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2601.18404v1",
-   "title": "Flash evaporation Riemann Problem: Formulation and its Exact Solution",
-   "summary": "Flash evaporation, a liquid-to-gas phase transition phenomenon in real fluids, is prevalent in aerospace propulsion systems. To elucidate the physical mechanisms of such complex flows and provide theoretical benchmarks for Computational Fluid Dynamics simulations, this paper formalizes the Flash evaporation Riemann…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2601.18404v1",
-   "date": "2026-01-26",
-   "cats": [
-    "missiles"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2512.23443v1",
-   "title": "Adaptive Fusion Graph Network for 3D Strain Field Prediction in Solid Rocket Motor Grains",
-   "summary": "Local high strain in solid rocket motor grains is a primary cause of structural failure. However, traditional numerical simulations are computationally expensive, and existing surrogate models cannot explicitly establish geometric models and accurately capture high-strain regions. Therefore, this paper proposes an…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2512.23443v1",
-   "date": "2025-12-29",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2512.12317v1",
-   "title": "Experimental and Numerical Analysis of the Intermittentency in a Nozzle Overexpanded-Flow",
-   "summary": "The present work reports an investigation into the statistical properties of wall-pressure fluctuations in a highly over-expanded nozzle flow, characterized by significant shock-induced flow separation. This regime is extremely hazardous to rocket nozzles, as it leads to very high off-axis loads. The database under…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2512.12317v1",
-   "date": "2025-12-13",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2411.19792v2",
-   "title": "Coupled Flow-Thermal Analysis of a Rocket Nozzle with Charring Ablative Thermal Protection System",
-   "summary": "This paper presents a conjugate flow-thermal analysis of a rocket nozzle protected by a charring ablative thermal protection system (TPS). The study employs a coupled approach, integrating a CFD solver with an in-house transient material response code through the exchange of boundary conditions at the fluid-solid…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2411.19792v2",
-   "date": "2024-11-29",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2411.08731v1",
-   "title": "Combustion Instabilities in Complex Chamber Geometries of Solid Propellant Rocket Motors",
-   "summary": "High-frequency combustion instabilities can lead to significant fluctuations in chamber pressure, affecting the structural integrity and performance of solid rocket motors. Since these instabilities manifest as acoustic oscillations during combustion, a mathematical model has been developed to calculate the chamber…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2411.08731v1",
-   "date": "2024-10-24",
-   "cats": [
-    "academic"
-   ]
-  },
-  {
-   "id": "http://arxiv.org/abs/2403.08901v3",
-   "title": "A Framework for Strategic Discovery of Credible Neural Network Surrogate Models under Uncertainty",
-   "summary": "The widespread integration of deep neural networks in developing data-driven surrogate models for high-fidelity simulations of complex physical systems highlights the critical necessity for robust uncertainty quantification techniques and credibility assessment methodologies, ensuring the reliable deployment of…",
-   "source": "arXiv",
-   "url": "http://arxiv.org/abs/2403.08901v3",
-   "date": "2024-03-13",
-   "cats": [
-    "academic"
+    "orbital",
+    "launch"
    ]
   }
  ]
