@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:39:08+00:00",
+ "updated": "2026-11-25T19:11:00+00:00",
  "items": [
   {
    "id": "starship-flight-15",
@@ -184,6 +184,17 @@
    ]
   },
   {
+   "id": "https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/",
+   "title": "MaiaSpace Ships Maia Mechanical Models to Launch Site",
+   "summary": "ArianeGroup subsidiary MaiaSpace has shipped full-scale mechanical models of the first and second stages of its Maia rocket to French Guiana. The stages will be used for a series of combined tests at the Guiana Space Centre in the first half of 2027. MaiaSpace announced on 25 November that the two stages left the…",
+   "source": "European Spaceflight",
+   "url": "https://europeanspaceflight.com/maiaspace-ships-maia-mechanical-models-to-launch-site/",
+   "date": "2026-11-25",
+   "cats": [
+    "launch"
+   ]
+  },
+  {
    "id": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
    "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
    "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
@@ -349,18 +360,6 @@
    "date": "2026-11-16",
    "cats": [
     "orbital"
-   ]
-  },
-  {
-   "id": "https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/",
-   "title": "Next Vega C Launch Edges Closer to Christmas Day as Satellites Arrive Late",
-   "summary": "Italian rocket manufacturer Avio has revealed that delays in the delivery of customer satellites have pushed the third Vega C launch of 2026 back toward Christmas, several weeks later than previously planned. Speaking during the company’s third-quarter earnings call on 11 November, Avio CEO Giulio Ranzo explained…",
-   "source": "European Spaceflight",
-   "url": "https://europeanspaceflight.com/next-vega-c-launch-edges-closer-to-christmas-day-as-satellites-arrive-late/",
-   "date": "2026-11-14",
-   "cats": [
-    "orbital",
-    "launch"
    ]
   },
   {
