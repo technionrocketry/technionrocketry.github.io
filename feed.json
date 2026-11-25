@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:15:49+00:00",
+ "updated": "2026-11-25T01:34:44+00:00",
  "items": [
   {
    "id": "starship-flight-15",
@@ -173,14 +173,47 @@
    ]
   },
   {
+   "id": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+   "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
+   "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
+   "date": "2026-11-25",
+   "cats": [
+    "launch"
+   ]
+  },
+  {
+   "id": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+   "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
+   "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
+   "date": "2026-11-24",
+   "cats": [
+    "orbital"
+   ]
+  },
+  {
    "id": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
    "title": "Tiangong Space Station to welcome first international visitor",
-   "summary": "China is preparing to launch the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space… The post Tiangong Space Station to welcome first international visitor appeared first on NASASpaceFlight.com .",
+   "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station to welcome first international visitor appeared first on NASASpaceFlight.com .",
    "source": "NASASpaceflight",
    "url": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
    "date": "2026-11-24",
    "cats": [
     "launch"
+   ]
+  },
+  {
+   "id": "https://europeanspaceflight.com/arianespace-completes-10th-ariane-6-flight-with-next-expected-on-17-december/",
+   "title": "Arianespace Completes 10th Ariane 6 Flight With Next Expected on 17 December",
+   "summary": "Arianespace has successfully completed the tenth flight of its Ariane 6 rocket, deploying another 36 Amazon Leo satellites into orbit. The rocket’s sixth and likely final flight of 2026 is currently expected to take place on 17 December. The Ariane 6 rocket lifted off from the Guiana Space Centre at 11:14 UTC on 24…",
+   "source": "European Spaceflight",
+   "url": "https://europeanspaceflight.com/arianespace-completes-10th-ariane-6-flight-with-next-expected-on-17-december/",
+   "date": "2026-11-24",
+   "cats": [
+    "orbital"
    ]
   },
   {
@@ -308,18 +341,6 @@
    ]
   },
   {
-   "id": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-   "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
-   "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
-   "date": "2026-11-16",
-   "cats": [
-    "orbital",
-    "launch"
-   ]
-  },
-  {
    "id": "https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns/",
    "title": "UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns",
    "summary": "The UK government has defended the resilience of its satellite-based military communications, saying that while it uses SpaceX’s Starshield service, it does not depend on any single commercial provider for critical communications. The assurance comes amid concerns about reliance on SpaceX after it emerged that…",
@@ -340,17 +361,6 @@
    "cats": [
     "orbital",
     "launch"
-   ]
-  },
-  {
-   "id": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-   "title": "Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history",
-   "summary": "SpaceX has caught a Starship upper stage for the first time. After 22 and a… The post Starship Flight 15: Booster diverts to ocean, but Ship 42 makes history appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-   "date": "2026-11-13",
-   "cats": [
-    "orbital"
    ]
   },
   {
