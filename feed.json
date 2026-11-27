@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:33:16+00:00",
+ "updated": "2026-11-27T19:14:15+00:00",
  "items": [
   {
    "id": "starship-flight-15",
@@ -173,6 +173,28 @@
    ]
   },
   {
+   "id": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
+   "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
+   "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
+   "source": "NASASpaceflight",
+   "url": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
+   "date": "2026-11-27",
+   "cats": [
+    "launch"
+   ]
+  },
+  {
+   "id": "https://europeanspaceflight.com/hundreds-of-arianegroup-workers-strike-in-bremen/",
+   "title": "Hundreds of ArianeGroup Workers Strike in Bremen",
+   "summary": "Nearly 650 employees at ArianeGroup’s facility in Bremen, Germany, participated in a 24-hour strike on 24 November. The facility is responsible for the production of Ariane 6 upper stages. In a statement published on 24 November, German trade union IG Metall announced that nearly 39,000 employees at 22 facilities…",
+   "source": "European Spaceflight",
+   "url": "https://europeanspaceflight.com/hundreds-of-arianegroup-workers-strike-in-bremen/",
+   "date": "2026-11-27",
+   "cats": [
+    "orbital"
+   ]
+  },
+  {
    "id": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
    "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
    "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
@@ -306,35 +328,12 @@
    ]
   },
   {
-   "id": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-   "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-   "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-   "source": "NASASpaceflight",
-   "url": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-   "date": "2026-11-18",
-   "cats": [
-    "launch"
-   ]
-  },
-  {
    "id": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
    "title": "PLD Space Investor Selects MIURA 5 to Launch Demo Mission",
    "summary": "Japanese satellite manufacturer Mitsubishi Electric has signed a contract with Spanish rocket builder PLD Space to launch a small satellite aboard the company’s second MIURA 5 test flight. PLD Space announced that it had signed the launch contract on 18 November, describing the agreement as “a new stage in the…",
    "source": "European Spaceflight",
    "url": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
    "date": "2026-11-18",
-   "cats": [
-    "orbital",
-    "launch"
-   ]
-  },
-  {
-   "id": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/",
-   "title": "ICEYE Launches €2.05B Takeover Bid for Italian Rocket Builder Avio",
-   "summary": "Finnish satellite builder and operator ICEYE has launched a €2.05 billion takeover bid for Avio, with the aim of building a “true European sovereign space and defense champion.” The company has also outlined plans to invest an additional €1 billion in Italy if the acquisition goes through. On 17 November, ICEYE’s…",
-   "source": "European Spaceflight",
-   "url": "https://europeanspaceflight.com/iceye-launches-e2-05b-takeover-bid-for-italian-rocket-builder-avio/",
-   "date": "2026-11-17",
    "cats": [
     "orbital",
     "launch"
