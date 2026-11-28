@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:32:18+00:00",
+ "updated": "2026-11-28T07:31:50+00:00",
  "items": [
   {
    "id": "starship-flight-15",
@@ -173,6 +173,18 @@
    ]
   },
   {
+   "id": "https://europeanspaceflight.com/hyimpulse-completes-first-hot-fire-test-with-sl1-thrust-vector-control-system/",
+   "title": "HyImpulse Completes First Hot-Fire Test with SL1 Thrust Vector Control System",
+   "summary": "German rocket builder HyImpulse has completed the first hot-fire test of its HyPLOX-90 hybrid rocket motor equipped with a thrust vector control system, marking a milestone in the development of its SL1 orbital launch vehicle. HyImpulse announced the successful test in a 27 November update. Speaking to European…",
+   "source": "European Spaceflight",
+   "url": "https://europeanspaceflight.com/hyimpulse-completes-first-hot-fire-test-with-sl1-thrust-vector-control-system/",
+   "date": "2026-11-28",
+   "cats": [
+    "orbital",
+    "launch"
+   ]
+  },
+  {
    "id": "https://www.nasaspaceflight.com/2026/11/stoke-nova-booster-slc-14-2027-debut/",
    "title": "Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut",
    "summary": "Stoke Space’s Nova Pathfinder is moving toward an early 2027 inaugural launch following the arrival… The post Stoke Space’s Nova Pathfinder booster arrives at SLC-14 ahead of 2027 debut appeared first on NASASpaceFlight.com .",
@@ -325,18 +337,6 @@
    "date": "2026-11-19",
    "cats": [
     "orbital"
-   ]
-  },
-  {
-   "id": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
-   "title": "PLD Space Investor Selects MIURA 5 to Launch Demo Mission",
-   "summary": "Japanese satellite manufacturer Mitsubishi Electric has signed a contract with Spanish rocket builder PLD Space to launch a small satellite aboard the company’s second MIURA 5 test flight. PLD Space announced that it had signed the launch contract on 18 November, describing the agreement as “a new stage in the…",
-   "source": "European Spaceflight",
-   "url": "https://europeanspaceflight.com/pld-space-investor-selects-miura-5-to-launch-demo-mission/",
-   "date": "2026-11-18",
-   "cats": [
-    "orbital",
-    "launch"
    ]
   },
   {
